@@ -136,12 +136,10 @@ No virtual environment or pip install is needed — ChronoVault uses only Python
 
 📺 **YouTube Link:** `https://youtu.be/YOUR_VIDEO_ID_HERE`
 
-*(Replace this link with your actual unlisted YouTube recording before submission.)*
-
 ---
 
 ## 👤 Author
 
-- **Name:** [Your Full Name]
+- **Name:** Juvel S. Bergantin
 - **Course:** Intermediate Programming — Final Project
-- **Year/Section:** [Your Section]
+- **Year/Section:** BSCS-1B
