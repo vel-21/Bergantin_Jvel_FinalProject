@@ -62,8 +62,8 @@ ChronoVault/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<YourUsername>/YourLastName_YourFirstName_FinalProject.git
-cd YourLastName_YourFirstName_FinalProject
+git clone https://github.com/vel-21/Bergantin_Jvel_FinalProject.git
+cd C:\ChronoVault
 
 # 2. Run the application
 python src/main.py
